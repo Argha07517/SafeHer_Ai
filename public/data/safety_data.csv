@@ -1,0 +1,16 @@
+id,location_name,latitude,longitude,safety_score,category,lighting,crowd,police_presence,description
+1,Howrah Station Police Post,22.5830,88.3426,95,Police,95,95,100,24/7 Police Help Desk and high CCTV surveillance
+2,Park Street Metro Zone,22.5532,88.3524,92,Safe Zone,90,92,85,Commercial hub with active street lighting and frequent patrols
+3,Strand Road Dark Lane,22.5695,88.3440,42,Dark Spot,30,25,35,Isolated riverside alley with broken street lights after 9 PM
+4,Salt Lake Sector V Tech Park,22.5726,88.4331,90,Safe Zone,92,88,80,IT hub with 24/7 private security and well-lit boulevards
+5,SSKM Hospital Emergency,22.5391,88.3433,94,Hospital,95,85,90,Major government hospital with round-the-clock emergency care
+6,Rabindra Sadan Crossing,22.5442,88.3468,88,Police,88,90,95,Busy junction with permanent traffic & law enforcement booth
+7,Gariahat Shopping Corridor,22.5186,88.3667,86,Safe Zone,85,95,75,High footfall shopping avenue with good lighting
+8,Jadavpur Unlit Underpass,22.4988,88.3715,48,Dark Spot,35,40,40,Poorly illuminated railroad underpass with low evening foot traffic
+9,New Town Eco Park Gate 1,22.5958,88.4698,91,Safe Zone,95,80,85,Well-monitored tourist & leisure park perimeter
+10,Siliguri Junction Booth,26.7160,88.4236,89,Police,85,88,90,North Bengal key transit police outpost
+11,Darjeeling Mall Road,27.0360,88.2627,93,Safe Zone,90,85,80,Pedestrian-only well-lit tourist promenade
+12,College Street CCTV Hub,22.5752,88.3638,87,CCTV,88,92,82,High density video surveillance area near University of Calcutta
+13,EM Bypass Ruby Crossing,22.5134,88.3995,89,Hospital,92,85,88,Major medical corridor with active emergency vehicle movement
+14,Tollygunge Isolated Lane,22.4935,88.3482,45,Dark Spot,40,30,30,Low visibility narrow alleyway between residential blocks
+15,Bidhan Nagar Railway Station,22.5872,88.3845,84,Police,80,90,85,Railway protection force outpost with active CCTV monitoring
